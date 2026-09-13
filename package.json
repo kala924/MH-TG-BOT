@@ -1,0 +1,28 @@
+{
+  "name": "mh-tg-bot",
+  "version": "1.0.0",
+  "description": "MH-TG-BOT - Multilingual AI Telegram Assistant",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "check": "node --check index.js"
+  },
+  "keywords": [
+    "telegram",
+    "bot",
+    "ai",
+    "multilingual",
+    "assistant"
+  ],
+  "author": "MH-BOT TEAM",
+  "license": "MIT",
+  "engines": {
+    "node": ">=22.0.0"
+  },
+  "dependencies": {
+    "node-telegram-bot-api": "^2.1.0",
+    "openai": "^7.15.0",
+    "axios": "^1.20.0",
+    "dotenv": "^17.4.2"
+  }
+}
