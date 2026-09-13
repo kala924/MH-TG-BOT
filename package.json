@@ -20,7 +20,7 @@
     "node": ">=22.0.0"
   },
   "dependencies": {
-    "node-telegram-bot-api": "^2.1.0",
+    "node-telegram-bot-api": "^1.2.0",
     "openai": "^7.15.0",
     "axios": "^1.20.0",
     "dotenv": "^17.4.2"
